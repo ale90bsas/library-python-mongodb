@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "name": "Eliminating The Dark X",
+        "isbn": 2144,
+        "page_count": 511,
+        "issued": true,
+        "author": "Keith Carter",
+        "year": 2007
+    },
+    {
+        "id": 1,
+        "name": "Emperor Without A Conscience VII",
+        "isbn": 4550,
+        "page_count": 346,
+        "issued": false,
+        "author": "Ivan Turner",
+        "year": 1999
+    },
+    {
+        "id": 2,
+        "name": "Element With Sins X",
+        "isbn": 1145,
+        "page_count": 706,
+        "issued": false,
+        "author": "Jimmy Phillips",
+        "year": 1979
+    },
+    {
+        "id": 3,
+        "name": "Ruination Of The Forest II",
+        "isbn": 6311,
+        "page_count": 281,
+        "issued": true,
+        "author": "Ivan Adams",
+        "year": 2019
+    },
+    {
+        "id": 4,
+        "name": "Duchess With Pride VII",
+        "isbn": 4659,
+        "page_count": 682,
+        "issued": true,
+        "author": "Everett Anderson",
+        "year": 2006
+    },
+    {
+        "id": 5,
+        "name": "Assassin Of Nightmares IX",
+        "isbn": 4929,
+        "page_count": 603,
+        "issued": true,
+        "author": "Bruce Anderson",
+        "year": 2008
+    },
+    {
+        "id": 6,
+        "name": "Temptations In The Forest I",
+        "isbn": 7929,
+        "page_count": 352,
+        "issued": true,
+        "author": "Greyson Campbell",
+        "year": 1987
+    },
+    {
+        "id": 7,
+        "name": "Limit Of Gold VI",
+        "isbn": 9316,
+        "page_count": 682,
+        "issued": true,
+        "author": "Hector Jackson",
+        "year": 2013
+    },
+    {
+        "id": 8,
+        "name": "Enemies Of Tomorrow VII",
+        "isbn": 1676,
+        "page_count": 741,
+        "issued": true,
+        "author": "Perry Phillips",
+        "year": 2001
+    },
+    {
+        "id": 9,
+        "name": "Strife With Strength III",
+        "isbn": 7125,
+        "page_count": 633,
+        "issued": true,
+        "author": "Ted Nelson",
+        "year": 2015
+    }
+]
